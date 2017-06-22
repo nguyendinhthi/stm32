@@ -23,9 +23,9 @@ param([String]$debugfile = "");
 
 if ($debugfile -eq "")
 {
-& "C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\common\bin\cspybat" -f "C:\Users\hp\OneDrive\demo\stm32f4_dis\eth_try\EWARM\settings\eth_try.eth_try.general.xcl" --backend -f "C:\Users\hp\OneDrive\demo\stm32f4_dis\eth_try\EWARM\settings\eth_try.eth_try.driver.xcl" 
+& "C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0_2\common\bin\cspybat" -f "C:\Users\hp\OneDrive\demo\stm32f4_dis\eth_try\stm32\EWARM\settings\eth_try.eth_try.general.xcl" --backend -f "C:\Users\hp\OneDrive\demo\stm32f4_dis\eth_try\stm32\EWARM\settings\eth_try.eth_try.driver.xcl" 
 }
 else
 {
-& "C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0\common\bin\cspybat" -f "C:\Users\hp\OneDrive\demo\stm32f4_dis\eth_try\EWARM\settings\eth_try.eth_try.general.xcl" --debug_file=$debugfile --backend -f "C:\Users\hp\OneDrive\demo\stm32f4_dis\eth_try\EWARM\settings\eth_try.eth_try.driver.xcl" 
+& "C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.0_2\common\bin\cspybat" -f "C:\Users\hp\OneDrive\demo\stm32f4_dis\eth_try\stm32\EWARM\settings\eth_try.eth_try.general.xcl" --debug_file=$debugfile --backend -f "C:\Users\hp\OneDrive\demo\stm32f4_dis\eth_try\stm32\EWARM\settings\eth_try.eth_try.driver.xcl" 
 }
