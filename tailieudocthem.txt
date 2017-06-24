@@ -1,0 +1,18 @@
+cang doc, cang hoc cam thay minh cang khong biet ghi ca
+vay ta nen bat dau lam ghi day
+asw iot can tim hieu them, nhung can ban minh phai biet may cai nhu c,c++, javascript, python,..
+moi co can ban 
+tim hieu them cai ibm waston nua cha biet no co ghi
+mttq, websoketios,dns, 
+AWS IoT allows you to easily connect devices to the cloud and to other devices. AWS IoT supports HTTP, WebSockets, and MQTT, a lightweight communication protocol 
+specifically designed to tolerate intermittent connections, minimize the code footprint on devices, and reduce network bandwidth requirements. AWS IoT also supports 
+other industry-standard and custom protocols, and devices can communicate with each other even if they are using different protocols. phan tai 
+lieu cua aws iot, can doc ghi thi tim hieu them,
+links downloads sdk cua no https://aws.amazon.com/iot-platform/sdk/
+links tai lieu mot so cai can ban ve no http://docs.aws.amazon.com/iot/latest/developerguide/protocols.html
+links tai lieu them https://aws.amazon.com/iot-platform/
+links https://aws.amazon.com/iot-platform/developer-resources/
+co cai ibmm waston iot nhung chua dong bo lam, chua co nheiu tai lieu ve no, nen tim hieu cai amazon da roi tinh sau chu
+an nhieu de boi thuc lam
+co them cai trang nay nua, co ghi len coi, nhung danh gia chung thi waston kho nhan hon asw nhieu, va de thue theo he thong hon, con waston la 
+he thong moi can vai nam nua lmoi hoan thanh
